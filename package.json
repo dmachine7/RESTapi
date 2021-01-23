@@ -1,0 +1,16 @@
+{
+  "name": "friendsbook",
+  "version": "1.0.0",
+  "description": "Simple CRUD app using Node and Express",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "author": "Devang",
+  "license": "ISC",
+  "devDependencies": {
+    "nodemon": "^2.0.7"
+  }
+}
